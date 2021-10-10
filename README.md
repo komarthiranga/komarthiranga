@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @komarthiranga
-- 👀 I’m interested in Front end frameworks
+- 👀 I’m interested in Front end javascript frameworks
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Machien learning with web
 - 📫 How to reach me reduxranga@gmail.com
