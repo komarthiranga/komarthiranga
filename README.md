@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @komarthiranga
 - 👀 I’m Expert in Javascript Programming
 - 🌱 I’m React + Angular Programmer
+- 🌱 I’m React Native + Flutter Programmer
 - 💞️ I’m looking to collaborate on Machine learning with web
 - 📫 How to reach me reduxranga@gmail.com
 
